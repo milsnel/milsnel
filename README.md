@@ -11,7 +11,7 @@
 
 ```py
        OS  :  Windows, Linux
-Languages  :  C, C++, Lua, 
+Languages  :  C++, Lua 
   
 ```
 
